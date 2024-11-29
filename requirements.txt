@@ -1,4 +1,0 @@
-pycryptodome
-pypiwin32
-crypto
-requests
